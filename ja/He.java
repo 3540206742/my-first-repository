@@ -4,5 +4,6 @@ public class He{
 		System.out.println("begin to study");
 		dog a=new dog("dahuang",7,"nan");
 		a.hello();
+		System.out.println("this is a change");
 	}
 }
